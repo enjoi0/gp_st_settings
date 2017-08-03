@@ -1,0 +1,13 @@
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+Package Control.user-ca-bundle
+OmniSharpSublime.sublime-settings
+JavaScript.sublime-settings
+JavaScript (Babel).sublime-settings
+/*.crt
+/*.merged-ca-bundle

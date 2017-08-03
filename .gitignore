@@ -1,0 +1,10 @@
+# ignore all directories
+*/
+
+# except for the ones we want to track
+# these dirs should contain their own .gitignore files if needed
+!User/
+!Default/
+
+# ignore all swp files
+*.swp

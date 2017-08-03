@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Boxy Theme",
+		"Boxy Theme Addon - Mono File Icons",
+		"Clickable URLs",
+		"ColorPicker",
+		"gp_st_colorschemes",
+		"gp_st_plugins",
+		"gp_st_snippets",
+		"NeoVintageous",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"Theme - Cyanide"
+	],
+	"repositories":
+	[
+		"https://github.com/NeoVintageous/NeoVintageous.git",
+		"https://github.com/GeordieP/gp_st_plugins",
+		"https://github.com/GeordieP/gp_st_snippets",
+		"https://github.com/GeordieP/gp_st_colorschemes"
+	]
+}
